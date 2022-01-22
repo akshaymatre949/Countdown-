@@ -4,7 +4,7 @@ var minute = document.getElementById("minutes");
 var second = document.getElementById("seconds");
 
 //set the date for counting down to
-var countDownDate = new Date("Jul 18, 2021 12:00:00").getTime();
+var countDownDate = new Date("Jul 18, 2022 12:00:00").getTime();
 
 var interval = setInterval(function() {
 // Get Todays's date and time
